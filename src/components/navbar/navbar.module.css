@@ -1,0 +1,12 @@
+.container{
+    /* background-color: bisque; */
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 2rem;
+    font-weight: bold;
+}
