@@ -27,7 +27,7 @@
         right: 0;
         width: 50%;
         height: calc(100vh - 5rem);
-        background-color: var(--bgSoft);
+        background: linear-gradient( #1a2038, #311e44);
         display: flex;
         flex-direction: column;
         align-items: center;
